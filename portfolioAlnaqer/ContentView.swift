@@ -100,7 +100,6 @@ struct ContentView: View {
                         .offset(y: 10)
                     }
                 }
-                
                 ZStack {
                     VStack(alignment: .leading) {}
                         .frame(width: 372, height: 474)
